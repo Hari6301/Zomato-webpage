@@ -1,0 +1,2 @@
+DEFINE not1 not1
+ASSIGN not1 libMode shared
